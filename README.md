@@ -29,7 +29,8 @@ QA周刊分类整理-201508<br />
 
 <a name="TESTTOOLS"></a>
 ##测试工具
-
+[基础篇：iOS开发工具------网络封包分析工具Charles](http://www.infoq.com/cn/articles/network-packet-analysis-tool-charles)
+Charles是在Mac下常用的截取网络封包的工具，Charles通过将自己设置成系统的网络访问代理服务器，使得所有的网络访问请求都通过它来完成，从而实现了网络封包的截取和分析
 <a name="AUTOTEST"></a>
 ##自动化测试
 
